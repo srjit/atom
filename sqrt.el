@@ -25,5 +25,5 @@
 (defun sqrt(x) (try 1 x))
 
 
-(sqrt 100)
+;;(sqrt 100)
  
